@@ -11,8 +11,6 @@
 <p align="center">
   ⚡ <em>"I'm passionate about coding and visual storytelling!"</em>
 </p>
-## Profile Views  
-![Profile Views](https://api.visitorbadge.io/api/visitors?path=Rushi425&label=Views&countColor=%23263759)
 
 <h3 align="left">💻 Languages & Tools</h3>
 <p align="left">
