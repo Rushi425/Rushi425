@@ -13,6 +13,9 @@
 </p>
 
 ---
+## Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=plastic)
+
 
 <h3 align="left">💻 Languages & Tools</h3>
 <p align="left">
