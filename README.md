@@ -11,9 +11,8 @@
 <p align="center">
   ⚡ <em>"I'm passionate about coding and visual storytelling!"</em>
 </p>
-
----## Profile Views  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
+## Profile Views  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-views?username=your-username&theme=default)
 
 <h3 align="left">💻 Languages & Tools</h3>
 <p align="left">
