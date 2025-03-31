@@ -12,10 +12,8 @@
   ⚡ <em>"I'm passionate about coding and visual storytelling!"</em>
 </p>
 
----
-## Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=plastic)
-
+---## Profile Views  
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-username/&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)
 
 <h3 align="left">💻 Languages & Tools</h3>
 <p align="left">
