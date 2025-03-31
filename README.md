@@ -12,7 +12,7 @@
   ⚡ <em>"I'm passionate about coding and visual storytelling!"</em>
 </p>
 ## Profile Views  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-views?username=Rushi425&theme=default)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=Rushi425&label=Views&countColor=%23263759)
 
 <h3 align="left">💻 Languages & Tools</h3>
 <p align="left">
